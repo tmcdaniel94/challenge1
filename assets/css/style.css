@@ -42,12 +42,7 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-nav {
-    position: relative;
-    bottom: 30px;
-    left: 710px;
+    margin-top: 20px;
 }
 
 a {
